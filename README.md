@@ -8,7 +8,6 @@ It can be mainly used with IONIC.
  
 <html>
  <head>
- <title>Modelo de formulário</title>
  <meta name="description" content="Aprenda a criar um site completo que usa formulários em HTML">
  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
  </head>
